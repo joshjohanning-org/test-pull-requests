@@ -14,6 +14,6 @@ Test
 Test
 
 
-:rocket: :eagle:
+:rocket: :bird:
 
 ❇️
